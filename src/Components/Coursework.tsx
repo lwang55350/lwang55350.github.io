@@ -78,8 +78,6 @@ const Coursework = () => {
                         semester = "Winter '21"
                         course = {coursesWN21}
                     />
-                </div>
-                <div className="card-list" style={{marginTop: "50px"}}>
                     <ClassCard 
                         semester = "Fall '21"
                         course = {coursesFA21}
